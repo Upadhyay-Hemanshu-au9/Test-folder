@@ -1,0 +1,86 @@
+{
+  "BookingDetails": [
+    {},
+    {
+      "id": 54074,
+      "hotelName": "Amanora The Fern Hotels",
+      "name": "Hemanshu",
+      "phone": "9574798183",
+      "status": "REJECTED",
+      "error": "",
+      "date": "2020-12-31"
+    },
+    {
+      "id": 78487,
+      "hotelName": "ITC Maratha",
+      "name": "Ravi fgdghfdhh",
+      "phone": "9033552485",
+      "status": "ACCEPTED",
+      "error": "Please fill both details",
+      "date": "2020-12-30"
+    },
+    {
+      "id": 28371,
+      "hotelName": "Snow Bliss",
+      "name": "pijush konar",
+      "phone": "46894546523456",
+      "status": "ACCEPTED",
+      "error": "",
+      "date": "2021-08-30"
+    },
+    {
+      "id": 34326,
+      "hotelName": "The Park Baga River Goa",
+      "name": "Himanshu",
+      "phone": "654687894984",
+      "status": "ACCEPTED",
+      "error": "",
+      "date": "2020-12-30"
+    },
+    {
+      "id": 60886,
+      "hotelName": "Snow Bliss",
+      "name": "Munna",
+      "phone": "995946456798",
+      "status": "ACCEPTED",
+      "error": "",
+      "date": "2020-12-30"
+    },
+    {
+      "id": 60889,
+      "hotelName": "Snow Bliss",
+      "name": "random",
+      "phone": "12132321121",
+      "status": "ACCEPTED",
+      "error": "",
+      "date": "2020-12-30"
+    },
+    {
+      "id": 88720,
+      "hotelName": "Westwood Residence",
+      "name": "ARN @",
+      "phone": "9574798183",
+      "status": "ACCEPTED",
+      "error": "Please fill both details",
+      "date": "2020-12-31"
+    },
+    {
+      "id": 62018,
+      "hotelName": "Westwood Residence",
+      "name": "dfvdgdgtd",
+      "phone": "5435343553345",
+      "status": "ACCEPTED",
+      "error": "",
+      "date": "2021-12-31"
+    },
+    {
+      "id": 74516,
+      "hotelName": "The Corinthians Resort",
+      "name": "dsrfrsrfee",
+      "phone": "3432345252",
+      "status": "ACCEPTED",
+      "error": "",
+      "date": "2020-12-31"
+    }
+  ]
+}

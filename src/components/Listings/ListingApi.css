@@ -1,0 +1,11 @@
+img {
+  width: 400px;
+  height: 300px;
+}
+
+#head {
+  color: chocolate;
+}
+#notavail {
+  color: rgb(100, 0, 87);
+}
